@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello 🌏, I am Yogish!
+---
 
-<!--
-**iamyogish/iamyogish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer (iOS & Full Stack)
+----
+- I am currently an iOS Engineer at H&M
+- Experienced in building highly scalable apps
+- Love to learn new tech
+- I kinda write about what I learn & use at [TrialnErrorTech](https://medium.com/trialnerrortech)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**
+- Swift, Objective-C
+- .Net
+- Javascript (React, Reactnative, Node.js)
+
+---
+**If you say Hi to me on other platforms**
+- [Twitter](https://twitter.com/iamyogishh)
+- [LinkedIn](https://www.linkedin.com/in/iamyogish/)
+- [Instagram](https://www.instagram.com/iamyogish/)
