@@ -1,7 +1,7 @@
 ### Hello 🌏, I am Yogish!
 ---
 
-Software Engineer (iOS & Full Stack)
+**Software Engineer (iOS & Full Stack)**
 ----
 - I am currently an iOS Engineer at H&M
 - Experienced in building highly scalable apps
