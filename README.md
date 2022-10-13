@@ -6,7 +6,7 @@
 - I am currently an iOS Engineer at H&M
 - Experienced in building highly scalable apps
 - Love to learn new tech
-- I kinda write about what I learn & use at [TrialnErrorTech](https://medium.com/trialnerrortech)
+- I sometimes write about what I learn & use at [TrialnErrorTech](https://medium.com/trialnerrortech)
 
 ---
 
