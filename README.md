@@ -3,7 +3,7 @@
 
 **Software Engineer (iOS & Full Stack)**
 
-- I am currently an iOS Engineer at H&M
+- I am currently an iOS Engineer at George
 - Experienced in building highly scalable apps
 - Love to learn new tech
 - I sometimes write about what I learn & use at [TrialnErrorTech](https://medium.com/trialnerrortech)
