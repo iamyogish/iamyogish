@@ -12,6 +12,7 @@
 
 **Languages & Frameworks**
 - Swift, Objective-C
+- Kotlin
 - .Net
 - Javascript (React, Reactnative, Node.js)
 
